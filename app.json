@@ -1,7 +1,7 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
-  "logo": "https://files.catbox.moe/6zd0ru.jpg",
+  "name": "IBAD-MD",
+  "description": "Javascript WhatsApp bot made by IBAD",
+  "logo": "https://files.catbox.moe/9i14r8.jpg",
   "keywords": ["KHAN-MD"],
   "success_url": "/",
   "stack": "container",
@@ -19,7 +19,7 @@
     "BOT_NAME": {
       "description": "Your bot name (Default: KHAN-MD)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "IBAD-MD"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
@@ -29,12 +29,12 @@
     "OWNER_NUMBER": {
       "description": "Owner WhatsApp number without + (Default: 923427582273)",
       "required": false,
-      "value": "923427582273"
+      "value": "923334776587"
     },
     "OWNER_NAME": {
       "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "IBAD"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*ʏᴇs ɪ ᴛʀᴜsᴛ ɪʙᴀᴅ*"
     }
   },
   "buildpacks": [
